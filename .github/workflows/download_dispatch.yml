@@ -5,12 +5,12 @@ on:
     inputs:
       JM_ALBUM_IDS:
         type: string
-        description: 本子id（多个id用-隔开，如 '123-456-789'）
+        description: 復仇母女（多个id用-隔开，如 '123-456-789'）
         required: false
 
       JM_PHOTO_IDS:
         type: string
-        description: 章节id（单独下载章节，多个id同上）
+        description: 1-70（单独下载章节，多个id同上）
         required: false
 
       CLIENT_IMPL:
